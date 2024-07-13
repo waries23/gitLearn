@@ -1,1 +1,1 @@
-"# pushing a file in git" 
+# Pushing a file in git
